@@ -33,17 +33,27 @@ This project replicates the look and feel of Spotify’s web interface, includin
 Spotify-Clone/
 │
 ├── spotify.html
+
 ├── spotify.css
+
 ├── README.md
+
 │
 └── images
 ├── logo.png
+
 ├── library_icon.png
+
 ├── card1img.jpeg
+
 ├── card2img.jpeg
+
 ├── card3img.png
+
 ├── jawan-audio.mp3
+
 └── player_icon1.png ...
+
 
 
 ---
